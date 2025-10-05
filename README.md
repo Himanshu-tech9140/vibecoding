@@ -56,11 +56,13 @@ This project is built with static files and requires no build process.
 
 ---
 
-## 📸 Screenshot
+## 📸 Snapshot
 
-*(Replace this placeholder text with an actual image. Make sure your image file is in the repository, for example, `screenshot.png` or `assets/screenshot.jpg`)*
+<img width="1888" height="702" alt="Screenshot 2025-10-05 060032" src="https://github.com/user-attachments/assets/cf82e6ac-9cca-4c21-84d5-708e04d93562" />
+<img width="1885" height="854" alt="Screenshot 2025-10-05 060056" src="https://github.com/user-attachments/assets/00306e6f-a25e-417a-8d6b-eb4ad9ab2871" />
+<img width="1891" height="854" alt="Screenshot 2025-10-05 060114" src="https://github.com/user-attachments/assets/a77c5cfe-ff95-43c3-bd32-d8a5549b8b8b" />
+<img width="1890" height="851" alt="Screenshot 2025-10-05 060550" src="https://github.com/user-attachments/assets/13193fcf-fc8a-40f0-8aa0-c96e194bfdc2" />
 
-![CampusConnect Screenshot]() 
 
 ---
 
