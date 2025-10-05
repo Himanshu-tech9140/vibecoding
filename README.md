@@ -60,7 +60,7 @@ This project is built with static files and requires no build process.
 
 *(Replace this placeholder text with an actual image. Make sure your image file is in the repository, for example, `screenshot.png` or `assets/screenshot.jpg`)*
 
-![CampusConnect Screenshot](screenshot.png) 
+![CampusConnect Screenshot]() 
 
 ---
 
